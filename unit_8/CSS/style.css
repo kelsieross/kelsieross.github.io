@@ -131,3 +131,9 @@ h1 {
 		padding: .5em;
 	}
 }
+
+@media only screen and (max-width: 380px) {
+	#fenway {
+		display: none;
+	}
+}
